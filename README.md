@@ -1,6 +1,5 @@
-# Sharity-hackamol5.0
+# Sharity-Hackamol-5.0
 A project Website Built  @ Hackamol 5.0 at NITJ , Punjab as an innovative way of overcoming world hunger eventually
-# Sharity - Hackmol 5.0
 Sharity is a web application aimed at reducing food waste and combating hunger by facilitating the redistribution of surplus food from events, parties, and colleges to those in need. Built with HTML, CSS, and JavaScript, Sharity provides a platform for individuals and businesses to connect and contribute to a meaningful cause.
 
 <!-- <a href="#" target="_blank">**PROJECT LINK** 🚀</a> -->
